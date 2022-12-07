@@ -1,0 +1,3 @@
+ini digunakan untuk menghubungkan repository ke view
+jangan dulu diisi nanti kita pelajarin
+
