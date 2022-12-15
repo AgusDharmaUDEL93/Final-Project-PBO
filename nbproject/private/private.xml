@@ -3,8 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/Ni%20Wayan%20Amanda/Downloads/Final-Project-PBO/src/com/kelompok3/view/ListProductView/ListProductView.java</file>
             <file>file:/C:/Users/Ni%20Wayan%20Amanda/Downloads/Final-Project-PBO/src/com/kelompok3/view/ProductDetailView/ProductDetailView.java</file>
+=======
+            <file>file:/home/agusdharma/Documents/Tugas/PBO/Project/PBOFinalProject/src/com/kelompok3/repository/repository.txt</file>
+            <file>file:/home/agusdharma/Documents/Tugas/PBO/Project/PBOFinalProject/src/com/kelompok3/view/RegisterView/RegisterView.java</file>
+            <file>file:/home/agusdharma/Documents/Tugas/PBO/Project/PBOFinalProject/src/com/kelompok3/App.java</file>
+            <file>file:/home/agusdharma/Documents/Tugas/PBO/Project/PBOFinalProject/src/com/kelompok3/entity/entity.txt</file>
+            <file>file:/home/agusdharma/Documents/Tugas/PBO/Project/PBOFinalProject/src/com/kelompok3/service/service.txt</file>
+            <file>file:/home/agusdharma/Documents/Tugas/PBO/Project/PBOFinalProject/src/com/kelompok3/view/LoginView/LoginView.java</file>
+            <file>file:/home/agusdharma/Documents/Tugas/PBO/Project/PBOFinalProject/src/com/kelompok3/schema/databasesSchema.sql</file>
+>>>>>>> main
         </group>
     </open-files>
 </project-private>
